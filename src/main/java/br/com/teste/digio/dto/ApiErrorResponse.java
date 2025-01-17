@@ -1,4 +1,4 @@
-package br.com.instivo.agenda.infrastructure.controlleradvice;
+package br.com.teste.digio.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
